@@ -1,0 +1,7 @@
+name=Syobon Action
+author=Chiku / OpenSyobonAction contributors / Playdate port
+description=The famously unfair cat platformer, ported to Playdate.
+bundleID=com.jjck.syobonaction
+version=0.1.0
+buildNumber=1
+imagePath=SystemAssets
