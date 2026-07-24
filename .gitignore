@@ -1,0 +1,5 @@
+build/
+*.pdx/
+*.pdx.zip
+Source/pdex.*
+.DS_Store
